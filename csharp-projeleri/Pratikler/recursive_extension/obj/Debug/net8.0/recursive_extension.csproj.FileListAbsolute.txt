@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\bin\Debug\net8.0\recursive_extension.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\bin\Debug\net8.0\recursive_extension.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\bin\Debug\net8.0\recursive_extension.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\bin\Debug\net8.0\recursive_extension.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\bin\Debug\net8.0\recursive_extension.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\refint\recursive_extension.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\recursive_extension.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\recursive_extension\obj\Debug\net8.0\ref\recursive_extension.dll
