@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\bin\Debug\net8.0\overloading.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\bin\Debug\net8.0\overloading.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\bin\Debug\net8.0\overloading.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\bin\Debug\net8.0\overloading.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\bin\Debug\net8.0\overloading.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\refint\overloading.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\overloading.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\overloading\obj\Debug\net8.0\ref\overloading.dll
