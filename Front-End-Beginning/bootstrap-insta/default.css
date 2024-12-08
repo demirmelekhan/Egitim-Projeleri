@@ -1,0 +1,12 @@
+::placeholder{
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    background-position: 40%;
+    background-size: 6%;
+  }
+
+.middlearea{
+    height: 200px !important;
+
+}

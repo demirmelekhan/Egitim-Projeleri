@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\bin\Debug\net8.0\hata_yonetimi.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\bin\Debug\net8.0\hata_yonetimi.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\bin\Debug\net8.0\hata_yonetimi.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\bin\Debug\net8.0\hata_yonetimi.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\bin\Debug\net8.0\hata_yonetimi.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\refint\hata_yonetimi.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\hata_yonetimi.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\hata_yonetimi\obj\Debug\net8.0\ref\hata_yonetimi.dll

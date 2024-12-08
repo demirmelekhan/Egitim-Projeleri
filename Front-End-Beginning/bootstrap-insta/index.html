@@ -1,0 +1,682 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="author" content="Melek Demirhan">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+    <link rel="stylesheet" href="default.css">
+
+    <title>Instagram</title>
+  </head>
+  <body>
+    
+    <!-- navbar start -->
+    <header class="navbar  ">
+      <nav class="navbar fixed-top navbar-expand-sm navbar-light border " style="background-color: white">
+          <a class="navbar-brand " href="index.html"><img src="https://www.instagram.com/static/images/web/mobile_nav_type_logo.png/735145cfe0a4.png" alt=""></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          
+          </button>
+          <div class="collapse navbar-collapse">
+              <form class="form-inline my-2 my-lg-0 ml-5 d-none d-sm-block ">
+              <input
+              class="form-control mr-sm-2 empty ml-5 mt-2 "
+              type="search"
+              placeholder="Ara"
+              style="font-family: Arial, FontAwesome; height: 28px; width: 216px "
+              aria-label="Search"
+            />
+          </form>
+          
+            <div class="collapse navbar-collapse justify-content-end">
+              <ul class="navbar-nav">
+                  <li class="nav-item active mr-2 ">
+                    
+                    <a class="nav-link" href="#"
+                      ><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 576 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40H456c-1.1 0-2.2 0-3.3-.1c-1.4 .1-2.8 .1-4.2 .1H416 392c-22.1 0-40-17.9-40-40V448 384c0-17.7-14.3-32-32-32H256c-17.7 0-32 14.3-32 32v64 24c0 22.1-17.9 40-40 40H160 128.1c-1.5 0-3-.1-4.5-.2c-1.2 .1-2.4 .2-3.6 .2H104c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9 .1-2.8V287.6H32c-18 0-32-14-32-32.1c0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7L564.8 231.5c8 7 12 15 11 24z"/></svg>
+                      <span class="sr-only"></span></a
+                    >
+                  </li>
+                  <li class="nav-item mr-2">
+                      <a class="nav-link" href="#">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M64 0C28.7 0 0 28.7 0 64V352c0 35.3 28.7 64 64 64h96v80c0 6.1 3.4 11.6 8.8 14.3s11.9 2.1 16.8-1.5L309.3 416H448c35.3 0 64-28.7 64-64V64c0-35.3-28.7-64-64-64H64z"/></svg>
+                      </a>
+                  </li>
+                  <li class="nav-item mr-2">
+                      <a class="nav-link" href="#">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm50.7-186.9L162.4 380.6c-19.4 7.5-38.5-11.6-31-31l55.5-144.3c3.3-8.5 9.9-15.1 18.4-18.4l144.3-55.5c19.4-7.5 38.5 11.6 31 31L325.1 306.7c-3.2 8.5-9.9 15.1-18.4 18.4zM288 256a32 32 0 1 0 -64 0 32 32 0 1 0 64 0z"/></svg>
+                      </a>
+                  </li>
+                  <li class="nav-item mr-2">
+                      <a class="nav-link" href="#">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M47.6 300.4L228.3 469.1c7.5 7 17.4 10.9 27.7 10.9s20.2-3.9 27.7-10.9L464.4 300.4c30.4-28.3 47.6-68 47.6-109.5v-5.8c0-69.9-50.5-129.5-119.4-141C347 36.5 300.6 51.4 268 84L256 96 244 84c-32.6-32.6-79-47.5-124.6-39.9C50.5 55.6 0 115.2 0 185.1v5.8c0 41.5 17.2 81.2 47.6 109.5z"/></svg>
+                      </a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="https://www.instagram.com/demimelekrhan" target="_blank">
+                          <img
+                              src="resim/profile.png"
+                              class="mb-2"
+                              style="width: 23px; height: 23px; border-radius: 50%;"/>
+                      </a>
+                  </li>
+                </ul>
+            </div>
+          
+          </div>
+        </nav>
+    </header>
+      <!-- navbar finish -->
+
+      <div class="container middlearea mt-5">
+        <div class="row flex-xl-nowrap  ">
+          <div class="col-6 ">
+            <div class="card">
+              <div class="card-body">
+                
+                
+              </a>
+                <a href="https://www.instagram.com/muzafferdemirhan66" style="text-decoration: none;" target="_blank">
+                <img
+                  src="resim/muzafferdemirhan.png"
+                  class="storyphoto img-fluid"
+                />
+                
+              </a>
+              <a href="https://www.instagram.com/paradise/" style="text-decoration: none;" target="_blank">
+                <img
+                  src="resim/paradise.png"
+                  class="storyphoto img-fluid"
+                />
+              
+                
+                <a href="https://www.instagram.com/lauraprepon/" style="text-decoration: none;" target="_blank">
+                <img
+                  src="resim/lauraprepon.png"
+                  class="storyphoto img-fluid"
+                />
+              </a>
+                <a href="https://www.instagram.com/elizajaneface" style="text-decoration: none;" target="_blank">
+                <img
+                  src="resim/elizataylor.png"
+                />
+              </a>
+                <a href="https://www.instagram.com/edaerdem14" style="text-decoration: none;" target="_blank">
+                <img
+                  src="resim/edaerdem.png"
+                  class="storyphoto img-fluid"
+                />
+              </a>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <img
+                  src="resim/profile.png"
+                  class="mr-2"
+                  style="width: 35px; height: 35px; border-radius: 50%"
+                />
+                <span class="postuserfont"><strong><a href="https://www.instagram.com/demimelekrhan" target="_blank" style="color: black;">demimelekrhan</a></strong></span>
+                <span class="mt-2"
+                  ><strong><i class="fas fa-ellipsis-h"></i></strong
+                ></span>
+              </div>
+              <img
+                src="resim/resim1.jpg"
+                class="card-img-top"
+                alt="..."
+              />
+              <ul
+                class="list-group list-group-horizontal mt-1"
+                style="list-style-type: none;"
+              >
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-heart fa-lg"
+                      style="color: black; position: relative; font-size: 23px"
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-comment fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-paper-plane fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <span class="">
+                  <li class="nav-item ml-4">
+                    <a class="nav-link ml-2" href="#"
+                      ><i
+                        class="far fa-bookmark fa-lg"
+                        style="color: black; position: relative; font-size: 23px"
+                      ></i
+                    ></a>
+                  </li>
+                </span>
+              </ul>
+              <span>
+                <img
+                  src="resim/lp1.png"
+                  class="mb-1 ml-3"
+                  style="width: 23px; height: 23px; border-radius: 50%"
+                />
+                <span class="postuserfont"
+                  ><strong>lauraprepon</strong> ve
+                  <strong>42 diğer kişi</strong> beğendi</span
+                >
+              </span>
+              <div class="card-body" style="margin-top: -15px">
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >demimelekrhan</strong
+                  >Sevgili Vincent sen bir dahisin!
+                </p>
+                <a href="#" style="text-decoration: none"
+                  ><p
+                    class="card-text postuserfont"
+                    style="
+                      margin-left: -4px;
+                      margin-top: -14px;
+                      color: rgb(139, 133, 133);
+                    "
+                  >
+                    15 yorumun tümünü gör
+                  </p></a
+                >
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >lauraprepon</strong
+                  >That's incredible picture... We should go see it together one day...
+                </p>
+                <p class="card-text postuserfont" style="margin-top: -15px">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >elizajaneface</strong
+                  >I love that.I want to come too.
+                </p>
+                <p
+                  class="card-text"
+                  style="
+                    margin-top: -10px;
+                    margin-left: -4px;
+                    font-size: 12px;
+                    color: rgb(139, 133, 133);
+                  "
+                >
+                  10 SAAT ÖNCE
+                </p>
+              </div>
+              <div
+                class="card-footer"
+                style="
+                  color: rgb(139, 133, 133);
+                  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                    'Helvetica Neue', sans-serif;
+                  font-size: 14px;
+                "
+              >
+                <span style="margin-left: -4px">Yorum Ekle...</span
+                ><span class="" style="color: #0095f6; opacity: 50%"
+                  ><strong>Paylaş</strong></span
+                >
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-header">
+                <img
+                  src="resim/lp1.png"
+                  class="mr-2"
+                  style="width: 35px; height: 35px; border-radius: 50%"
+                />
+                <span class="postuserfont"><strong>lauraprepon</strong></span>
+                <span class="mt-2"
+                  ><strong><i class="fas fa-ellipsis-h"></i></strong
+                ></span>
+              </div>
+              <img
+                src="resim/resim2.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <ul
+                class="list-group list-group-horizontal mt-1"
+                style="list-style-type: none;"
+              >
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-heart fa-lg"
+                      style="color: black; position: relative; font-size: 23px"
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-comment fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-paper-plane fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <span class="">
+                  <li class="nav-item ml-4">
+                    <a class="nav-link ml-2" href="#"
+                      ><i
+                        class="far fa-bookmark fa-lg"
+                        style="color: black; position: relative; font-size: 23px"
+                      ></i
+                    ></a>
+                  </li>
+                </span>
+              </ul>
+              <span>
+                <img
+                  src="resim/profile.png"
+                  style="width: 23px; height: 23px; border-radius: 50%"
+                />
+                <span class="postuserfont"
+                  ><strong>demimelekrhan</strong> ve
+                  <strong>670 diğer kişi</strong> beğendi</span
+                >
+              </span>
+              <div class="card-body" style="margin-top: -15px">
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >lauraprepon</strong
+                  >#GetYourPrepOn for a Rainy Day with the Fam
+                </p>
+                <a href="#" style="text-decoration: none"
+                  ><p
+                    class="card-text postuserfont"
+                    style="
+                      margin-left: -4px;
+                      margin-top: -14px;
+                      color: rgb(139, 133, 133);
+                    "
+                  >
+                    60 yorumun tümünü gör
+                  </p></a
+                >
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >demimelekrhan</strong
+                  >Wow Looks so delicious! you're the best honey...
+                </p>
+                <p class="card-text postuserfont" style="margin-top: -15px">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >muzafferdemirhan66</strong
+                  ><a href="https://www.instagram.com/demimelekrhan">@demimelekrhan</a>  bir dene sende yiyelim!
+                </p>
+                <p
+                  class="card-text"
+                  style="
+                    margin-top: -10px;
+                    margin-left: -4px;
+                    font-size: 12px;
+                    color: rgb(139, 133, 133);
+                  "
+                >
+                  10 SAAT ÖNCE
+                </p>
+              </div>
+              <div
+                class="card-footer"
+                style="
+                  color: rgb(139, 133, 133);
+                  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                    'Helvetica Neue', sans-serif;
+                  font-size: 14px;
+                "
+              >
+                <span style="margin-left: -4px">Yorum Ekle...</span
+                ><span class="" style="color: #0095f6; opacity: 50%"
+                  ><strong>Paylaş</strong></span
+                >
+              </div>
+            </div>
+            <div class="card mb-3">
+              <div class="card-header">
+                <img
+                  src="resim/jd1.png"
+                  class="mr-2"
+                  style="width: 35px; height: 35px; border-radius: 50%"
+                />
+                <span class="postuserfont"><strong>johnnydepp</strong></span>
+                <span class="mt-2"
+                  ><strong><i class="fas fa-ellipsis-h"></i></strong
+                ></span>
+              </div>
+              <img
+                src="resim/resim3.png"
+                class="card-img-top"
+                alt="..."
+              />
+              <ul
+                class="list-group list-group-horizontal mt-1"
+                style="list-style-type: none; border: 0"
+              >
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-heart fa-lg"
+                      style="color: black; position: relative; font-size: 23px"
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-comment fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#"
+                    ><i
+                      class="far fa-paper-plane fa-lg"
+                      style="
+                        color: black;
+                        position: relative;
+                        font-size: 23px;
+                        margin-left: -11px;
+                      "
+                    ></i
+                  ></a>
+                </li>
+                <span class="">
+                  <li class="nav-item ml-4">
+                    <a class="nav-link ml-2" href="#"
+                      ><i
+                        class="far fa-bookmark fa-lg"
+                        style="color: black; position: relative; font-size: 23px"
+                      ></i
+                    ></a>
+                  </li>
+                </span>
+              </ul>
+              <span>
+                <img
+                  src="resim/profile.png"
+                  class="mb-1 ml-3"
+                  style="width: 23px; height: 23px; border-radius: 50%"
+                />
+                <span class="postuserfont"
+                  ><strong>demimelekrhan</strong> ve
+                  <strong>900.182 diğer kişi</strong> beğendi</span
+                >
+              </span>
+              <div class="card-body" style="margin-top: -15px">
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >johnnydepp</strong
+                  >To my dear ‘Modi’ film family, Köszönöm for all your exceptional efforts without which this film could not have been made. Please accept my eternal admiration, appreciation, respect and love, JD. X.
+                  [Budapest, 2023]
+                </p>
+                <a href="#" style="text-decoration: none"
+                  ><p
+                    class="card-text postuserfont"
+                    style="
+                      margin-left: -4px;
+                      margin-top: -14px;
+                      color: rgb(139, 133, 133);
+                    "
+                  > 
+                    1500 yorumun tümünü gör
+                  </p></a
+                >
+                <p class="card-text postuserfont">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >demimelekrhan</strong
+                  >All the shows you've been in are great.
+                </p>
+                <p class="card-text postuserfont" style="margin-top: -15px">
+                  <strong style="margin-left: -4px; margin-right: 5px"
+                    >lauraprepon</strong
+                  >When is the release date?
+                </p>
+                <p
+                  class="card-text"
+                  style="
+                    margin-top: -10px;
+                    margin-left: -4px;
+                    font-size: 12px;
+                    color: rgb(139, 133, 133);
+                  "
+                >
+                  10 SAAT ÖNCE
+                </p>
+              </div>
+              <div
+                class="card-footer"
+                style="
+                  color: rgb(139, 133, 133);
+                  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                    Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                    'Helvetica Neue', sans-serif;
+                  font-size: 14px;
+                "
+              >
+                <span style="margin-left: -4px">Yorum Ekle...</span
+                ><span class="" style="color: #0095f6; opacity: 50%"
+                  ><strong>Paylaş</strong></span
+                >
+              </div>
+            </div>
+          </div>
+          <div class="col-3">
+          <div
+            class="card col-xs-12 rightpanel"
+            id="sticky-sidebar"
+            style="width: 18rem"
+          >
+            <div class="card-body d-flex" >
+              <div>
+                <a class="nav-link" href="#"
+                  >
+                  <span>
+                  <img
+                    src="resim/profile.png"
+                    class=""
+                    style="
+                      width: 60px;
+                      height: 60px;
+                      border-radius: 50%;
+                      border: 2px solid rgb(238, 39, 82);
+                      margin-left: -15px;
+                    "
+                  /><span
+                    class=""
+                    style="
+                      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                        Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+                        'Helvetica Neue', sans-serif;
+                      font-size: 15px;
+                      color: black;
+                      margin-left: 20px;
+                    "
+                    ><strong>demimelekrhan</strong>
+                    </span>
+                  </span>
+                </a>
+                <div class="mt-2">
+                  <span
+                    class="mt-5"
+                    style="
+                      font-family: 'Segoe UI', Tahoma, Geneva, Verdana,
+                        sans-serif;
+                      font-size: 15px;
+                      color: gray;
+                    "
+                    >Senin İçin Öneriler</span
+                  >
+                  <span
+                    class="postuserfont mt-1"
+                    style="font-size: 12px"
+                    ><strong>Tümünü Gör</strong></span
+                  >
+                </div>
+                <div class="mt-2 ml-2">
+                  <div>
+                    <span
+                      ><img
+                        src="resim/jd1.png"
+                        style="width: 30px; height: 30px; border-radius: 50%"
+                      />
+                    </span>
+                    <a href="https://www.instagram.com/johnnydepp" target="_blank">
+                    <span class="postuserfont ml-2 mt-1"
+                      ><strong>johnnydepp</strong></span
+                    >
+                    <span
+                      class="postuserfont"
+                      style="font-size: 13px; color: #0095f6; margin-top: 5px"
+                      ><strong>Takip Et</strong></span
+                    >
+                    </a>
+                  </div>
+                  <div class="mt-3">
+                    <span
+                      ><img
+                        src="resim/lp1.png"
+                        style="width: 30px; height: 30px; border-radius: 50%"
+                      />
+                    </span>
+                    <a href="https://www.instagram.com/lauraprepon" target="_blank">
+                    <span class="postuserfont ml-2 mt-1"
+                      ><strong>lauraprepon </strong></span
+                    >
+                    <span
+                      class="postuserfont"
+                      style="font-size: 13px; color: #0095f6; margin-top: 5px"
+                      ><strong>Takip Et</strong></span
+                    >
+                    </a>
+                  </div>
+                  <div class="mt-3">
+                    <span
+                      ><img
+                        src="resim/tr.png"
+                        style="width: 30px; height: 30px; border-radius: 50%"
+                      />
+                    </span>
+                    <a href="https://www.instagram.com/realtimrozon" target="_blank">
+                    <span class="postuserfont ml-2 mt-1"
+                      ><strong>realtimrozon</strong></span
+                    >
+                    <span
+                      class="postuserfont"
+                      style="font-size: 13px; color: #0095f6; margin-top: 5px"
+                      ><strong>Takip Et</strong></span
+                    >
+                    </a>
+                  </div>
+                  <div class="mt-3">
+                    <span
+                      ><img
+                        src="resim/ch.png"
+                        style="width: 30px; height: 30px; border-radius: 50%"
+                      />
+                    </span>
+                    <a href="https://www.instagram.com/colchrishadfield/" target="_blank">
+                    <span class="postuserfont ml-2 mt-1"
+                      ><strong>colchrishadfield</strong></span
+                    >
+                    <span
+                      class="postuserfont"
+                      style="font-size: 13px; color: #0095f6; margin-top: 5px"
+                      ><strong>Takip Et</strong></span
+                    >
+                  </div>
+                  <div class="mt-3">
+                    <span
+                      ><img
+                        src="resim/jr.png"
+                        style="width: 30px; height: 30px; border-radius: 50%"
+                      />
+                    </span>
+                    <a href="https://www.instagram.com/rothenberg.jason/" target="_blank">
+                    <span class="postuserfont ml-2 mt-1"
+                      ><strong>Jason Rothenberg</strong></span
+                    >
+                    <span
+                      class="postuserfont"
+                      style="font-size: 13px; color: #0095f6; margin-top: 5px"
+                      ><strong>Takip Et</strong></span
+                    >
+                    </a>
+                  </div>
+                </div>
+                <div class="ml-2 mt-2" style="color: lightgray; font-size: 11px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+                  <span><a href="https://about.instagram.com/" target="_blank" class="rightpanellinks">Hakkında</a> <a href="https://help.instagram.com/" target="_blank" class="rightpanellinks">Yardım</a> <a href="https://about.instagram.com/blog/" class="rightpanellinks">Basın</a> <a href="https://www.instagram.com/developer/" class="rightpanellinks">API</a> <a href="https://www.instagram.com/about/jobs/" class="rightpanellinks">İş Fırsatları</a> <a href="https://www.instagram.com/legal/privacy/" class="rightpanellinks">Gizlilik</a></span>
+                    <span><a href="https://www.instagram.com/legal/terms/" class="rightpanellinks">Koşullar</a> <a href="https://www.instagram.com/explore/locations/" class="rightpanellinks">Konumlar</a> <a href="https://www.instagram.com/directory/profiles/" class="rightpanellinks">Başlıca Hesaplar</a> <a href="https://www.instagram.com/directory/hashtags/" class="rightpanellinks">Konu Etiketleri</a> Dil</span>
+                    <p></p>
+                  <p style="font-size: 12px;">© 2023 INSTAGRAM FROM demirmelekhan</p>
+                </div>
+
+
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+
+    <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>

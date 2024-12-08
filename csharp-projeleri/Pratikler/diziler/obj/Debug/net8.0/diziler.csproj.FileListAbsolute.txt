@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\bin\Debug\net8.0\diziler.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\bin\Debug\net8.0\diziler.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\bin\Debug\net8.0\diziler.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\bin\Debug\net8.0\diziler.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\bin\Debug\net8.0\diziler.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\refint\diziler.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\diziler.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\diziler\obj\Debug\net8.0\ref\diziler.dll

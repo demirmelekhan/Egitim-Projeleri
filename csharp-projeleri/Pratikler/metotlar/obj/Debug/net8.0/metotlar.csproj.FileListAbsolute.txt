@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\bin\Debug\net8.0\metotlar.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\bin\Debug\net8.0\metotlar.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\bin\Debug\net8.0\metotlar.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\bin\Debug\net8.0\metotlar.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\bin\Debug\net8.0\metotlar.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\refint\metotlar.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\metotlar.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\metotlar\obj\Debug\net8.0\ref\metotlar.dll

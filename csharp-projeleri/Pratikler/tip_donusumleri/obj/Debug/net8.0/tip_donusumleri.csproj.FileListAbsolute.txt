@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.sourcelink.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\refint\tip_donusumleri.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\tip_donusumleri\obj\Debug\net8.0\ref\tip_donusumleri.dll

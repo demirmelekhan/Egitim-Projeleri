@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\bin\Debug\net8.0\if_else.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\bin\Debug\net8.0\if_else.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\bin\Debug\net8.0\if_else.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\bin\Debug\net8.0\if_else.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\bin\Debug\net8.0\if_else.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\refint\if_else.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\if_else.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\if_else\obj\Debug\net8.0\ref\if_else.dll

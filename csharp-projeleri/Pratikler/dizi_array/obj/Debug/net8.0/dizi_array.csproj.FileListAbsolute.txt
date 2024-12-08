@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\bin\Debug\net8.0\dizi_array.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\bin\Debug\net8.0\dizi_array.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\bin\Debug\net8.0\dizi_array.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\bin\Debug\net8.0\dizi_array.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\bin\Debug\net8.0\dizi_array.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\refint\dizi_array.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\dizi_array.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dizi_array\obj\Debug\net8.0\ref\dizi_array.dll

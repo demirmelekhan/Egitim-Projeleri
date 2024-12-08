@@ -1,0 +1,14 @@
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\bin\Debug\net8.0\dongu_for.exe
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\bin\Debug\net8.0\dongu_for.deps.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\bin\Debug\net8.0\dongu_for.runtimeconfig.json
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\bin\Debug\net8.0\dongu_for.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\bin\Debug\net8.0\dongu_for.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.AssemblyInfo.cs
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\refint\dongu_for.dll
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.pdb
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\dongu_for.genruntimeconfig.cache
+C:\Users\demir\Sites\csharp-projeleri\Pratikler\dongu_for\obj\Debug\net8.0\ref\dongu_for.dll
