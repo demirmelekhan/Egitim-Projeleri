@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\bin\Debug\net8.0\odev1.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\bin\Debug\net8.0\odev1.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\bin\Debug\net8.0\odev1.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\bin\Debug\net8.0\odev1.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\bin\Debug\net8.0\odev1.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\refint\odev1.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\odev1.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\odev1\obj\Debug\net8.0\ref\odev1.dll
