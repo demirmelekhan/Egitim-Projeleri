@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\bin\Debug\net8.0\datetime_math.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\bin\Debug\net8.0\datetime_math.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\bin\Debug\net8.0\datetime_math.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\bin\Debug\net8.0\datetime_math.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\bin\Debug\net8.0\datetime_math.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\refint\datetime_math.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\datetime_math.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\datetime_math\obj\Debug\net8.0\ref\datetime_math.dll
