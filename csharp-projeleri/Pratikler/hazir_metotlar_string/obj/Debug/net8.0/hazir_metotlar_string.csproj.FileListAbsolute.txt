@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\bin\Debug\net8.0\hazir_metotlar_string.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\bin\Debug\net8.0\hazir_metotlar_string.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\bin\Debug\net8.0\hazir_metotlar_string.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\bin\Debug\net8.0\hazir_metotlar_string.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\bin\Debug\net8.0\hazir_metotlar_string.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\refint\hazir_metotlar_string.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\hazir_metotlar_string.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\hazir_metotlar_string\obj\Debug\net8.0\ref\hazir_metotlar_string.dll

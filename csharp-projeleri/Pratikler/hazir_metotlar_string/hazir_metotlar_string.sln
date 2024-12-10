@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hazir_metotlar_string", "hazir_metotlar_string.csproj", "{5823FE04-4DAC-F188-E3C1-7D0DBA3E3533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5823FE04-4DAC-F188-E3C1-7D0DBA3E3533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5823FE04-4DAC-F188-E3C1-7D0DBA3E3533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5823FE04-4DAC-F188-E3C1-7D0DBA3E3533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5823FE04-4DAC-F188-E3C1-7D0DBA3E3533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827B2B04-F2D1-497E-A329-482A3801BF25}
+	EndGlobalSection
+EndGlobal
