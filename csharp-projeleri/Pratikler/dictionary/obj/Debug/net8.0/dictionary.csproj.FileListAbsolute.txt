@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\bin\Debug\net8.0\dictionary.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\bin\Debug\net8.0\dictionary.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\bin\Debug\net8.0\dictionary.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\bin\Debug\net8.0\dictionary.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\dictionary\obj\Debug\net8.0\ref\dictionary.dll
