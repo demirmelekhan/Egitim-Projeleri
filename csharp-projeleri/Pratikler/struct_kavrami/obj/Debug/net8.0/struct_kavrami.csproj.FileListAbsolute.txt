@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\bin\Debug\net8.0\struct_kavrami.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\bin\Debug\net8.0\struct_kavrami.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\bin\Debug\net8.0\struct_kavrami.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\bin\Debug\net8.0\struct_kavrami.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\bin\Debug\net8.0\struct_kavrami.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\refint\struct_kavrami.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\struct_kavrami.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\struct_kavrami\obj\Debug\net8.0\ref\struct_kavrami.dll
