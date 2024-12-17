@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\bin\Debug\net8.0\static_sinif_uyeler.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\bin\Debug\net8.0\static_sinif_uyeler.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\bin\Debug\net8.0\static_sinif_uyeler.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\bin\Debug\net8.0\static_sinif_uyeler.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\bin\Debug\net8.0\static_sinif_uyeler.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\refint\static_sinif_uyeler.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\static_sinif_uyeler.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\static_sinif_uyeler\obj\Debug\net8.0\ref\static_sinif_uyeler.dll
