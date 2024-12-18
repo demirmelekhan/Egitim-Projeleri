@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\bin\Debug\net8.0\kalitim.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\bin\Debug\net8.0\kalitim.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\bin\Debug\net8.0\kalitim.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\bin\Debug\net8.0\kalitim.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\bin\Debug\net8.0\kalitim.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\refint\kalitim.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\kalitim.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\kalitim\obj\Debug\net8.0\ref\kalitim.dll
