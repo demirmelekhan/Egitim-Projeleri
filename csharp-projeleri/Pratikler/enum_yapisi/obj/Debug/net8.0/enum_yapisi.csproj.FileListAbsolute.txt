@@ -1,0 +1,15 @@
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\bin\Debug\net8.0\enum_yapisi.exe
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\bin\Debug\net8.0\enum_yapisi.deps.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\bin\Debug\net8.0\enum_yapisi.runtimeconfig.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\bin\Debug\net8.0\enum_yapisi.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\bin\Debug\net8.0\enum_yapisi.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.AssemblyInfoInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.AssemblyInfo.cs
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.csproj.CoreCompileInputs.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.sourcelink.json
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\refint\enum_yapisi.dll
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.pdb
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\enum_yapisi.genruntimeconfig.cache
+C:\Users\demir\Sites\Egitim-Projeleri\csharp-projeleri\Pratikler\enum_yapisi\obj\Debug\net8.0\ref\enum_yapisi.dll
